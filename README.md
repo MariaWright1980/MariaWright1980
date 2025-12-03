@@ -1,13 +1,13 @@
 # MariaWright1980
 # 👋 About Me
 
-Hi my name is Maria and I am a Front End Engineer from Phoenix, AZ.
+**Hi my name is Maria and I am a Front End Engineer from Phoenix, AZ.**
 
 ✨ **Turning ideas into websites since 2023.**  
 🎓 **Frontend Now Bootcamp.**  
 📚 **Currently mastering:** React & TypeScript after solidifying my HTML, CSS, and JavaScript skills.  
 🎯 **Goal:** To build intuitive, accessible web experiences that make a difference.  
-🎲 Fun fact: Learning React feels like assembling IKEA furniture - confusing at first, but satisfying when it works.
+🎲 **Fun fact**: Learning React feels like assembling IKEA furniture - confusing at first, but satisfying when it works.
 
 ---
 
